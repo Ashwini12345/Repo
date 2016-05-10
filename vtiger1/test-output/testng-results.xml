@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="146431" started-at="2016-04-17T19:04:29Z" finished-at="2016-04-17T19:06:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="146431" started-at="2016-04-17T19:04:29Z" finished-at="2016-04-17T19:06:55Z">
+      <class name="Campaigns.vtiger.Calendar1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Campaigns.vtiger.Calendar1@1465398]" name="beforeClass" is-config="true" duration-ms="247" started-at="2016-04-18T00:34:29Z" finished-at="2016-04-18T00:34:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Campaigns.vtiger.Calendar1@1465398]" name="beforeMethod" is-config="true" duration-ms="9054" started-at="2016-04-18T00:34:29Z" finished-at="2016-04-18T00:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Calendartimetest()[pri:0, instance:Campaigns.vtiger.Calendar1@1465398]" name="Calendartimetest" duration-ms="137089" started-at="2016-04-18T00:34:38Z" finished-at="2016-04-18T00:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Calendartimetest -->
+      </class> <!-- Campaigns.vtiger.Calendar1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
